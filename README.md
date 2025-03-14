@@ -1,2 +1,2 @@
-# oneclick.github.doc
+# oneclick.github.io
 Boost Productivity – Copy, store, and search text effortlessly.
